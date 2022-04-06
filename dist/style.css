@@ -1,5 +1,5 @@
 header {
-    background-color: #f31471;
+    background-color: #74b9ff;
     padding: 3px;
     margin-bottom: 10px;
 }
@@ -11,15 +11,15 @@ header {
 }
 
 #newBackground {
-    background-color: #181818;
+    background-color: #dfe6e9;
 }
 
 .card-body {
     background-color: #636e72;
-    color: #33e8f5;
+    color: #ffeaa7;
 }
 
 .list-group-item {
-    background-color: #073f53;
+    background-color: #636e72;
     color: #636e72;
 }
